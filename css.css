@@ -1,0 +1,50 @@
+/* CSS styles */
+h1 {
+font-family: cursive;
+color: #000000;
+}
+h1 {
+    text-align: center;
+}	  
+h2 {
+  font-family: cursive;
+   margin-bottom: -20px;
+    text-align: center;
+}
+h3 {
+	
+  text-align: center;
+   font-family: system-ui;
+   margin-top: 50px;
+  margin-bottom: 50px;
+}
+p {
+	margin-left: 5%;
+  text-align: left;
+  margin-top: 25px;
+  margin-bottom:10px;
+  font-size: 18pt;
+}
+li {
+	margin-left: 5%;
+  margin-bottom: 10px;
+font-size: 18pt;
+
+}
+ul{
+	margin-left: -5%;
+  margin-top: 10px;
+font-size: 18pt;
+  
+}
+body {
+  margin-left: 5%;
+font-size: 18pt;
+  margin-right: 25px;
+  background-color: #7FFFD4;
+}
+p1 {
+	margin-left: 5%;
+	font-size: 18pt;
+}
+	  
